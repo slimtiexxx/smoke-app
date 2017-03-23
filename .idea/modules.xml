@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/smoke-app.iml" filepath="$PROJECT_DIR$/.idea/smoke-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/node-socket.io.iml" filepath="$PROJECT_DIR$/.idea/node-socket.io.iml" />
     </modules>
   </component>
 </project>
