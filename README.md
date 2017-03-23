@@ -11,7 +11,7 @@ If you have some remark please contact me [My GitHub page](https://github.com/sl
 
 ## On Heroku Node server
 
-You can reach it on https://smoke-app.herokuapp.com/ domain.
+You can reach it on https://smoke-app-io.herokuapp.com/ domain.
 
 ## Running Locally
 
@@ -24,7 +24,7 @@ $ npm install
 $ node server
 ```
 
-Your app will running on [localhost:5000](http://localhost:5000/).
+Your app will running on [localhost:3000](http://localhost:3000/).
 
 
 ## Documentation
